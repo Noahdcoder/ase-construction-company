@@ -42,7 +42,7 @@ export default function Home() {
           </div>
           <div className="flex justify-center p-8">
             <Image
-              src="/trial.png"
+              src="/homer.jpg"
               alt="Image of a building that was constructed by ASE Construction Limited"
               width={600}
               height={400}
