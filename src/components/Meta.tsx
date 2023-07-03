@@ -49,6 +49,10 @@ export default function Meta({ title, description }: metaProps) {
       <meta property="og:type" content="website" />
       <meta property="og:image:width" content="1200" />
       <meta property="og:image:height" content="630" />
+      <meta
+        name="google-site-verification"
+        content="p2AYz4srMpttvAH_RGRS42CqsPxmOJ8Eza9gt0zj12U"
+      />
       <link
         rel="apple-touch-icon"
         sizes="180x180"
