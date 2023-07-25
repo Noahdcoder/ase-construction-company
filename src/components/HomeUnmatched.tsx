@@ -72,7 +72,7 @@ export default function HomeUnmatched() {
             <Link href="services" legacyBehavior>
               <a>
                 <Image
-                  src="/home-2.jpg"
+                  src="/circle.jpg"
                   alt="A picture of a semi-completed building which was made by ASE construction limited"
                   layout="fill"
                   objectFit="cover"
