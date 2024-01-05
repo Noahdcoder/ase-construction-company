@@ -37,7 +37,7 @@ export default function NavBar() {
             <a>
               <Image
                 src="/ase-icon-color.png"
-                alt="The Ebaidebheki Initiative Logo"
+                alt="ASE Construction Company Logo"
                 width={100}
                 height={50}
                 priority={true}
